@@ -1,0 +1,4 @@
+<?php
+Response::redirect('leave');
+
+  ?>
